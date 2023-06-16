@@ -8,7 +8,7 @@ Currently, we train these models on Bullying10K datasets.
  
  
 ## Installation
-The code was tested with Anaconda and Python 3.5. After installing the Anaconda environment:
+The code was tested with Anaconda and Python 3.9. After installing the Anaconda environment:
 
  
 1. Install dependencies:
@@ -23,8 +23,9 @@ The code was tested with Anaconda and Python 3.5. After installing the Anaconda 
  
 
 3. Configure your dataset and pretrained model path.  
-4. 
+
 5. You can choose different models and datasets.
+
     To train the model, please do:
     ```Shell
     python train.py
